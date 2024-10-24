@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713026632637",
+    "project_id": "my-file-locker",
+    "storage_bucket": "my-file-locker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713026632637:android:d75ea958e9d741452830d4",
+        "android_client_info": {
+          "package_name": "com.api.myfilelocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713026632637-cthv7t3188rj6qb8kj9joms3iv0qi01q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.api.myfilelocker",
+            "certificate_hash": "c4b85d0ef84a714ad92fccbdd1b7bf4d4bdf5e28"
+          }
+        },
+        {
+          "client_id": "713026632637-usalrjg6gf9u3432thogn7vhe1jaj514.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox1BwNoL1sGgUJ1JYgBlVSjY_LSLOWp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713026632637-usalrjg6gf9u3432thogn7vhe1jaj514.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
