@@ -1,4 +1,4 @@
-# File Picker App 📂
+# File Locker App 📂
 
 A simple file picker app built with **Jetpack Compose** and **Kotlin**, where users can upload files in multiple formats. This app acts as a file locker, allowing users to store, manage, and retrieve their files easily.
 
