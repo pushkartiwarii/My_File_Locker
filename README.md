@@ -17,9 +17,6 @@ A simple file picker app built with **Jetpack Compose** and **Kotlin**, where us
 - **Room** (optional) - For local database storage (if implemented).
 - **Retrofit** (optional) - For network file uploads (if applicable).
   
-## Screenshots 📸
-
-_Add some screenshots of your app here to showcase the UI and functionality._
 
 ## Getting Started 🚀
 
@@ -35,7 +32,7 @@ Follow the instructions below to set up and run the project locally.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    https://github.com/pushkartiwarii/My_File_Locker.git
     ```
 2. Open the project in Android Studio.
 
